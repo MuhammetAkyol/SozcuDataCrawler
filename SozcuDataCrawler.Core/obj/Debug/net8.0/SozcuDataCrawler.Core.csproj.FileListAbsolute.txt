@@ -1,0 +1,11 @@
+C:\Users\msİ\source\repos\SozcuDataCrawler.Core\bin\Debug\net8.0\SozcuDataCrawler.Core.deps.json
+C:\Users\msİ\source\repos\SozcuDataCrawler.Core\bin\Debug\net8.0\SozcuDataCrawler.Core.dll
+C:\Users\msİ\source\repos\SozcuDataCrawler.Core\bin\Debug\net8.0\SozcuDataCrawler.Core.pdb
+C:\Users\msİ\source\repos\SozcuDataCrawler.Core\obj\Debug\net8.0\SozcuDataCrawler.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msİ\source\repos\SozcuDataCrawler.Core\obj\Debug\net8.0\SozcuDataCrawler.Core.AssemblyInfoInputs.cache
+C:\Users\msİ\source\repos\SozcuDataCrawler.Core\obj\Debug\net8.0\SozcuDataCrawler.Core.AssemblyInfo.cs
+C:\Users\msİ\source\repos\SozcuDataCrawler.Core\obj\Debug\net8.0\SozcuDataCrawler.Core.csproj.CoreCompileInputs.cache
+C:\Users\msİ\source\repos\SozcuDataCrawler.Core\obj\Debug\net8.0\SozcuDataCrawler.Core.dll
+C:\Users\msİ\source\repos\SozcuDataCrawler.Core\obj\Debug\net8.0\refint\SozcuDataCrawler.Core.dll
+C:\Users\msİ\source\repos\SozcuDataCrawler.Core\obj\Debug\net8.0\SozcuDataCrawler.Core.pdb
+C:\Users\msİ\source\repos\SozcuDataCrawler.Core\obj\Debug\net8.0\ref\SozcuDataCrawler.Core.dll

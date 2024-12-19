@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SozcuDataCrawler.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\SozcuDataCrawler.Web\\SozcuDataCrawler.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

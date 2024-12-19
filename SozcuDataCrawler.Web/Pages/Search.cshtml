@@ -1,0 +1,33 @@
+﻿@page
+@model SozcuDataCrawler.Web.Pages.SearchModel
+@{
+    ViewData["Title"] = "Arama Yap";
+}
+
+<div class="container mt-5">
+    <h1 class="mb-4 text-center">Sözcü Haber Arama</h1>
+    <form method="get" class="mb-4">
+        <div class="input-group">
+            <input type="text" class="form-control" name="query" placeholder="Aramak istediğiniz kelimeyi girin...">
+            <button class="btn btn-primary" type="submit">Ara</button>
+        </div>
+    </form>
+
+    @if (Model.SearchResults.Any())
+    {
+        <ul>
+            @foreach (var article in Model.UniqueArticles)
+            {
+                <li>
+                    <strong>@Html.Raw(article.Content)</strong><br />
+                    <a href="@article.Link">@article.Link</a>
+                </li>
+            }
+
+        </ul>
+    }
+    else
+    {
+        <p>Sonuç bulunamadı.</p>
+    }
+</div>
